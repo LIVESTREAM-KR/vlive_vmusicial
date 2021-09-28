@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 11:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 12:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <미숙의 쿠키상자> 녹화중계 (V MUSICAL)]]></title>
+            <link>https://www.vlive.tv/post/0-25443018</link>
+            <guid>https://www.vlive.tv/post/0-25443018</guid>
+            <pubDate>Tue, 28 Sep 2021 12:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210916_76/1631767701330gUfHC_JPEG/upload_758474227009886366bf4924d-3773-4f4d-9fe1-2ee7a59499b0.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 연극 <미숙의 쿠키상자> 녹화중계 (V MUSICAL)]]></title>
             <link>https://www.vlive.tv/post/0-25443256</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-24229969</guid>
             <pubDate>Mon, 27 Sep 2021 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[Jul 21]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210721_80/1626832876097bRJyj_JPEG/e642bcff-e9c3-11eb-bc3f-246e963a49a8_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 뮤지컬 <아이위시> 공연 실황 생중계 (V MUSICAL)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-18682914</guid>
             <pubDate>Mon, 27 Sep 2021 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[Oct 19, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 뮤지컬 <고스트> 프레스콜 (V MUSICAL)]]></title>
-            <link>https://www.vlive.tv/post/1-18693591</link>
-            <guid>https://www.vlive.tv/post/1-18693591</guid>
-            <pubDate>Mon, 27 Sep 2021 21:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[Oct 5, 2020]]></content:encoded>
         </item>
     </channel>
 </rss>
