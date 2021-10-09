@@ -4,9 +4,17 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 05:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 06:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세종 1446 뮤지컬 콘서트 ‘여민락 상영회’]]></title>
+            <link>https://www.vlive.tv/post/0-25574147</link>
+            <guid>https://www.vlive.tv/post/0-25574147</guid>
+            <pubDate>Sat, 09 Oct 2021 06:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[20 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210923_133/1632364792728oytKA_JPEG/upload_48634399768176979b916b8ac-7b94-4e16-877c-de2d222d5b3a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 세종 1446 뮤지컬 콘서트 ‘여민락 상영회’ 생중계]]></title>
             <link>https://www.vlive.tv/post/1-25826815</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25446676</guid>
             <pubDate>Sun, 03 Oct 2021 18:10:24 GMT</pubDate>
             <content:encoded><![CDATA[Sep 16]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_85/1631759345126VCfp9_JPEG/82d8d87d-1695-11ec-b835-505dac8c3607_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[다시보기] 뮤지컬 <스프링 어웨이크닝> 쇼케이스]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-19855491</guid>
             <pubDate>Sun, 03 Oct 2021 18:10:24 GMT</pubDate>
             <content:encoded><![CDATA[Nov 10, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[다시보기] 뮤지컬 <고스트> 프레스콜]]></title>
-            <link>https://www.vlive.tv/post/0-18682914</link>
-            <guid>https://www.vlive.tv/post/0-18682914</guid>
-            <pubDate>Sun, 03 Oct 2021 18:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[Oct 19, 2020]]></content:encoded>
         </item>
     </channel>
 </rss>
