@@ -4,15 +4,23 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 창작국악뮤지컬 <안녕, 지구> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-26183224</link>
+            <guid>https://www.vlive.tv/post/1-26183224</guid>
+            <pubDate>Tue, 26 Oct 2021 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[30 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211026_290/1635237465777z3Fkj_JPEG/778aeda7-3636-11ec-a74c-48df379ccacc_10.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 연극 <까뮈의 페스트 : 리버스> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/0-26173886</link>
             <guid>https://www.vlive.tv/post/0-26173886</guid>
             <pubDate>Tue, 26 Oct 2021 05:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[3 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[4 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211026_214/1635224705030cizNR_JPEG/e5e205c0-3619-11ec-b0b6-246e963a4708_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25443256</guid>
             <pubDate>Thu, 21 Oct 2021 15:10:27 GMT</pubDate>
             <content:encoded><![CDATA[Sep 16]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_211/1631768682578eS0dW_JPEG/77253065-16aa-11ec-8111-505dac8c381b_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <너를 만난다> 녹화중계]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-19875424</guid>
             <pubDate>Thu, 21 Oct 2021 15:10:27 GMT</pubDate>
             <content:encoded><![CDATA[Nov 12, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 연극 <하늘은 위에 둥둥 태양을 들고> 공연 실황]]></title>
-            <link>https://www.vlive.tv/post/1-19855491</link>
-            <guid>https://www.vlive.tv/post/1-19855491</guid>
-            <pubDate>Thu, 21 Oct 2021 15:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Nov 10, 2020]]></content:encoded>
         </item>
     </channel>
 </rss>
