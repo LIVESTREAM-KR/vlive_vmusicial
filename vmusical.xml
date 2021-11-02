@@ -4,9 +4,17 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 10:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 11:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <까뮈의 페스트 : 리버스> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-26173910</link>
+            <guid>https://www.vlive.tv/post/0-26173910</guid>
+            <pubDate>Tue, 02 Nov 2021 11:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[18 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211026_23/1635224765275ucJF0_JPEG/upload_51494372341788875b086756a-3a64-42c1-9df0-48d2454360b3.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 연극 <세븐 씬(Seven Scenes)> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/1-26272876</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26173886</guid>
             <pubDate>Tue, 02 Nov 2021 08:12:22 GMT</pubDate>
             <content:encoded><![CDATA[Oct 26]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211026_214/1635224705030cizNR_JPEG/e5e205c0-3619-11ec-b0b6-246e963a4708_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 세종 1446 뮤지컬 콘서트 ‘여민락 상영회’ 생중계]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-20050725</guid>
             <pubDate>Tue, 02 Nov 2021 08:12:22 GMT</pubDate>
             <content:encoded><![CDATA[Nov 23, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 뮤지컬 <나와 나타샤와 흰 당나귀> 녹화중계]]></title>
-            <link>https://www.vlive.tv/post/0-19888845</link>
-            <guid>https://www.vlive.tv/post/0-19888845</guid>
-            <pubDate>Tue, 02 Nov 2021 08:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[Nov 13, 2020]]></content:encoded>
         </item>
     </channel>
 </rss>
