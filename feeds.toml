@@ -1,6 +1,6 @@
 [media]
 title = "V MUSICAL"
-url = "https://www.vlive.tv/channel/EDE229/board/4029lang=ko"
+url = "https://www.vlive.tv/channel/EDE229/board/4029&lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong[class^='title_text']"
 linkSelector = "a[class^='post_area']"
