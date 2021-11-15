@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <원더티켓-수호나무가 있는 마을> - 유회승ver. (V MUSICAL)]]></title>
+            <link>https://www.vlive.tv/post/0-26413795</link>
+            <guid>https://www.vlive.tv/post/0-26413795</guid>
+            <pubDate>Mon, 15 Nov 2021 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 &lt;원더티켓-수호나무가 있는 마을&gt; - 유회승ver.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211112_193/16366858507381wGmi_JPEG/97b66a7f-4358-11ec-a74c-48df379ccacc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <원더티켓-수호나무가 있는 마을> - 윤도현ver. (V MUSICAL)]]></title>
+            <link>https://www.vlive.tv/post/0-26413713</link>
+            <guid>https://www.vlive.tv/post/0-26413713</guid>
+            <pubDate>Mon, 15 Nov 2021 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 &lt;원더티켓-수호나무가 있는 마을&gt; - 윤도현ver.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211112_47/1636685234513qosY4_JPEG/e3f235d7-4357-11ec-9dda-505dac8c3607_09.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 연극 <이장(移葬)> 녹화중계 (V MUSICAL)]]></title>
             <link>https://www.vlive.tv/post/1-26380288</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26365529</guid>
             <pubDate>Mon, 08 Nov 2021 03:10:48 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;제 1강 : 거절하는 방법&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211108_238/16363408644662n89H_JPEG/eb81eae9-403f-11ec-8140-a0369ff963bc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <세븐 씬(Seven Scenes)> 녹화중계 (V MUSICAL)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/1-26272876</guid>
             <pubDate>Tue, 02 Nov 2021 08:12:22 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;세븐 씬(Seven Scenes)&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211101_97/1635754979285PBBFk_JPEG/601817cd-3aeb-11ec-9e9c-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 창작국악뮤지컬 <안녕, 지구> 녹화중계 (V MUSICAL)]]></title>
@@ -135,20 +149,6 @@
             <guid>https://www.vlive.tv/post/0-20720241</guid>
             <pubDate>Tue, 02 Nov 2021 08:12:22 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 제5회 한국뮤지컬어워즈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 연극 <데미안 라이브> 공연 실황 (V MUSICAL)]]></title>
-            <link>https://www.vlive.tv/post/1-20296683</link>
-            <guid>https://www.vlive.tv/post/1-20296683</guid>
-            <pubDate>Tue, 02 Nov 2021 08:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 연극 &lt;데미안 라이브&gt; 공연 실황]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 뮤지컬 <라 루미에르 La Lumière> 공연 실황 (V MUSICAL)]]></title>
-            <link>https://www.vlive.tv/post/1-20234462</link>
-            <guid>https://www.vlive.tv/post/1-20234462</guid>
-            <pubDate>Thu, 11 Nov 2021 12:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 뮤지컬 &lt;라 루미에르 La Lumière&gt; 공연 실황]]></content:encoded>
         </item>
     </channel>
 </rss>
