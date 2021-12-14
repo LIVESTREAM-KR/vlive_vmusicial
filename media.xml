@@ -4,7 +4,7 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 06:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,20 +30,6 @@
             <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;이광수의 꿈, 그리고 꽃&gt; 녹화중계]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211117_113/1637111306538AgDy8_JPEG/7509e8d1-4742-11ec-a331-48df379cca40_07.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <원더티켓-수호나무가 있는 마을> - 유회승ver.]]></title>
-            <link>https://www.vlive.tv/post/0-26413795</link>
-            <guid>https://www.vlive.tv/post/0-26413795</guid>
-            <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 &lt;원더티켓-수호나무가 있는 마을&gt; - 유회승ver.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <원더티켓-수호나무가 있는 마을> - 윤도현ver.]]></title>
-            <link>https://www.vlive.tv/post/0-26413713</link>
-            <guid>https://www.vlive.tv/post/0-26413713</guid>
-            <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 &lt;원더티켓-수호나무가 있는 마을&gt; - 윤도현ver.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <이장(移葬)> 녹화중계]]></title>
@@ -149,6 +135,20 @@
             <guid>https://www.vlive.tv/post/0-21069571</guid>
             <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;깐느로 가는 길&gt; 공연 실황]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 뮤지컬 <로빈슨크루소> 공연 실황 / MUSICAL <鲁滨逊漂流记>]]></title>
+            <link>https://www.vlive.tv/post/1-20917306</link>
+            <guid>https://www.vlive.tv/post/1-20917306</guid>
+            <pubDate>Tue, 14 Dec 2021 06:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 뮤지컬 &lt;로빈슨크루소&gt; 공연 실황 / MUSICAL &lt;鲁滨逊漂流记&gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 연극 <달걀의 일> 공연실황 생중계]]></title>
+            <link>https://www.vlive.tv/post/1-20740113</link>
+            <guid>https://www.vlive.tv/post/1-20740113</guid>
+            <pubDate>Tue, 14 Dec 2021 06:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 연극 &lt;달걀의 일&gt; 공연실황 생중계]]></content:encoded>
         </item>
     </channel>
 </rss>
