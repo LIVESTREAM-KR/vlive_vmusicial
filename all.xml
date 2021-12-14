@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 12:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 13:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계 (V MUSICAL)]]></title>
-            <link>https://www.vlive.tv/post/1-26720472</link>
-            <guid>https://www.vlive.tv/post/1-26720472</guid>
-            <pubDate>Tue, 14 Dec 2021 11:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[연극 &lt;줄리엣과 줄리엣&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_262/1638424588261BU08G_PNG/upload_825043236910794253b2532af-512b-4235-8774-be1b42274c5b.png?type=f359x202" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[예고] 연극 <슈미> 녹화중계 (V MUSICAL)]]></title>
             <link>https://www.vlive.tv/post/0-26917860</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/0-26483963</guid>
             <pubDate>Wed, 17 Nov 2021 01:52:58 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;이광수의 꿈, 그리고 꽃&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211117_113/1637111306538AgDy8_JPEG/7509e8d1-4742-11ec-a331-48df379cca40_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <이장(移葬)> 녹화중계 (V MUSICAL)]]></title>
@@ -149,6 +142,13 @@
             <guid>https://www.vlive.tv/post/1-20917306</guid>
             <pubDate>Tue, 14 Dec 2021 06:12:30 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 뮤지컬 &lt;로빈슨크루소&gt; 공연 실황 / MUSICAL &lt;鲁滨逊漂流记&gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 연극 <달걀의 일> 공연실황 생중계 (V MUSICAL)]]></title>
+            <link>https://www.vlive.tv/post/1-20740113</link>
+            <guid>https://www.vlive.tv/post/1-20740113</guid>
+            <pubDate>Tue, 14 Dec 2021 13:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 연극 &lt;달걀의 일&gt; 공연실황 생중계]]></content:encoded>
         </item>
     </channel>
 </rss>
