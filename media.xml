@@ -4,9 +4,17 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 뮤지컬 <바바리맨-킬라이크아이두> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-27039265</link>
+            <guid>https://www.vlive.tv/post/1-27039265</guid>
+            <pubDate>Wed, 22 Dec 2021 05:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 뮤지컬 &lt;바바리맨-킬라이크아이두&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211222_287/1640148766242YROYm_JPEG/9bd390f8-62e1-11ec-850b-a0369ff95ec0_10.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 연극 <죄와벌_파란 관성의 시대> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/0-26967850</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26714107</guid>
             <pubDate>Thu, 02 Dec 2021 06:14:05 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;줄리엣과 줄리엣&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_79/16384249628162XwUe_JPEG/e4a81ca6-5334-11ec-a74c-48df379ccacc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <이광수의 꿈, 그리고 꽃> 녹화중계]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-21069571</guid>
             <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;깐느로 가는 길&gt; 공연 실황]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 뮤지컬 <로빈슨크루소> 공연 실황 / MUSICAL <鲁滨逊漂流记>]]></title>
-            <link>https://www.vlive.tv/post/1-20917306</link>
-            <guid>https://www.vlive.tv/post/1-20917306</guid>
-            <pubDate>Tue, 21 Dec 2021 13:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 뮤지컬 &lt;로빈슨크루소&gt; 공연 실황 / MUSICAL &lt;鲁滨逊漂流记&gt;]]></content:encoded>
         </item>
     </channel>
 </rss>
