@@ -4,9 +4,17 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 02:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 연극 <친절한 에이미 선생님의 하루> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-27285816</link>
+            <guid>https://www.vlive.tv/post/0-27285816</guid>
+            <pubDate>Wed, 05 Jan 2022 03:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 연극 &lt;친절한 에이미 선생님의 하루&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_62/1641350545673DVmDq_JPEG/80acd149-6dcf-11ec-b776-246e963a49a8_10.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 뮤지컬 <바바리맨-킬라이크아이두> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/1-27039265</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26917860</guid>
             <pubDate>Mon, 13 Dec 2021 05:09:38 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;슈미&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211213_227/1639370265521C4ui4_JPEG/1bfa6d1c-5bce-11ec-9e9c-48df379cc9e4_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <줄리엣과 줄리엣> 녹화중계]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-21419769</guid>
             <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;고역&gt; 공연 실황]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 연극 <깐느로 가는 길> 공연 실황]]></title>
-            <link>https://www.vlive.tv/post/0-21069571</link>
-            <guid>https://www.vlive.tv/post/0-21069571</guid>
-            <pubDate>Tue, 04 Jan 2022 13:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 연극 &lt;깐느로 가는 길&gt; 공연 실황]]></content:encoded>
         </item>
     </channel>
 </rss>
