@@ -4,9 +4,17 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 04:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 05:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 연극 <서찰을 전하는 아이> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-27491986</link>
+            <guid>https://www.vlive.tv/post/1-27491986</guid>
+            <pubDate>Tue, 18 Jan 2022 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 연극 &lt;서찰을 전하는 아이&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_264/1642480553461DXrWv_JPEG/e8db4df6-7817-11ec-8581-505dac8c37f3_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 연극 <월드다방> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/1-27385057</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27039265</guid>
             <pubDate>Wed, 22 Dec 2021 05:11:28 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 뮤지컬 &lt;바바리맨-킬라이크아이두&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211222_287/1640148766242YROYm_JPEG/9bd390f8-62e1-11ec-850b-a0369ff95ec0_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <죄와벌_파란 관성의 시대> 녹화중계]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-22121869</guid>
             <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 뮤지컬 &lt;시카고&gt; 프레스콜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] '올림#콘서트' <인생은 뮤지컬처럼> 생중계]]></title>
-            <link>https://www.vlive.tv/post/1-21497946</link>
-            <guid>https://www.vlive.tv/post/1-21497946</guid>
-            <pubDate>Thu, 25 Nov 2021 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] '올림#콘서트' &lt;인생은 뮤지컬처럼&gt; 생중계]]></content:encoded>
         </item>
     </channel>
 </rss>
