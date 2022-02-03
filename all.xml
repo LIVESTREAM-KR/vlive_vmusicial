@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 12:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 13:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <데미안 비더게부르트> 녹화중계 (V MUSICAL)]]></title>
-            <link>https://www.vlive.tv/post/0-27512682</link>
-            <guid>https://www.vlive.tv/post/0-27512682</guid>
-            <pubDate>Thu, 03 Feb 2022 11:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[연극 &lt;데미안 비더게부르트&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_192/1642643099701ccHRX_JPEG/upload_8672283508888051285a535f3-6f15-4bdf-b49f-355e1a4d3a25.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예고] 연극 <터키행진곡> 녹화중계 (V MUSICAL)]]></title>
             <link>https://www.vlive.tv/post/0-27579191</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/1-27491986</guid>
             <pubDate>Wed, 02 Feb 2022 01:54:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;서찰을 전하는 아이&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_264/1642480553461DXrWv_JPEG/e8db4df6-7817-11ec-8581-505dac8c37f3_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <월드다방> 녹화중계 (V MUSICAL)]]></title>
@@ -149,6 +142,13 @@
             <guid>https://www.vlive.tv/post/0-24229969</guid>
             <pubDate>Wed, 02 Feb 2022 01:54:10 GMT</pubDate>
             <content:encoded><![CDATA[[다시보기] 뮤지컬 &lt;스프링 어웨이크닝&gt; 쇼케이스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 뮤지컬 <아이위시> 공연 실황 생중계 (V MUSICAL)]]></title>
+            <link>https://www.vlive.tv/post/1-22488472</link>
+            <guid>https://www.vlive.tv/post/1-22488472</guid>
+            <pubDate>Thu, 03 Feb 2022 13:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 뮤지컬 &lt;아이위시&gt; 공연 실황 생중계]]></content:encoded>
         </item>
     </channel>
 </rss>
