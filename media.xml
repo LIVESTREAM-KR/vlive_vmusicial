@@ -4,17 +4,9 @@
         <title>V MUSICAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 12:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 13:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <터키행진곡> 녹화중계]]></title>
-            <link>https://www.vlive.tv/post/0-27579146</link>
-            <guid>https://www.vlive.tv/post/0-27579146</guid>
-            <pubDate>Tue, 08 Feb 2022 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[연극 &lt;터키행진곡&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220124_33/1642998918855hkhFX_JPEG/upload_8707864019372481722addb7f-b04e-4be2-8365-ab5fc0949a22.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예고] 연극 <욕망의 불가능한 대상> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/0-27749225</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/0-27513012</guid>
             <pubDate>Wed, 02 Feb 2022 01:54:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;데미안 비더게부르트&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_239/1642646083879lH5we_JPEG/22b6f1ba-7997-11ec-bf5d-a0369ff952f4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <서찰을 전하는 아이> 녹화중계]]></title>
@@ -149,6 +142,13 @@
             <guid>https://www.vlive.tv/post/1-25446676</guid>
             <pubDate>Wed, 02 Feb 2022 01:54:10 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 연극 &lt;너를 만난다&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[다시보기] 뮤지컬 <스프링 어웨이크닝> 쇼케이스]]></title>
+            <link>https://www.vlive.tv/post/0-24229969</link>
+            <guid>https://www.vlive.tv/post/0-24229969</guid>
+            <pubDate>Tue, 08 Feb 2022 13:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[[다시보기] 뮤지컬 &lt;스프링 어웨이크닝&gt; 쇼케이스]]></content:encoded>
         </item>
     </channel>
 </rss>
